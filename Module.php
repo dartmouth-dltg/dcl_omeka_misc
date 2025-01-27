@@ -2,7 +2,7 @@
 
 namespace DclOmekaMisc;
 
-use Generic\AbstractModule;
+use Omeka\Module\AbstractModule;
 
 class Module extends AbstractModule
 {
