@@ -2,6 +2,12 @@
   namespace DclOmekaMisc;
 
   return array(
+    // add a custom field
+    'dclomekamisc' => [
+        'site_settings' => [
+            'dclomekamisc_tagline' => '',
+        ],
+    ],
     // override the default thumbnail config
     'thumbnails' => [
       'types' => [
